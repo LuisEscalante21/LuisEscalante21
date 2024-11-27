@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Luis Ernesto Escalante Calderón</h1>
-<h3 align="center">Un apasionado desarrollador frontend de El Salvador</h3>
+<h1 align="center">Hola 👋, mi nombre es Luis Escalante</h1>
+<h3 align="center">Un apasionado desarrollador de El Salvador</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
