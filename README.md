@@ -1,10 +1,37 @@
-<h1 align="center">Hola 👋, mi nombre es Luis Escalante</h1>
-<h3 align="center">Un apasionado desarrollador de El Salvador</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<h1 align="center">¡Hola! 👋 Bienvenido a mi perfil.</h1>
+</div>
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://instagram.com/luiescalante.03" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luiescalante.03" height="30" width="40" / ></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisaxxzo)
+[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luiescalante2022@gmail.com)
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" destino ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40 " altura="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https:// raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https: //www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original -wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel ="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height= "40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href ="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python- original.svg" alt="python" width="40" height="40"/> </a> </p>
+</br>
+
+## 👨‍💻 Sobre mí:
+
+- 🎓 Estudiante de Software👨‍🎓</br>
+- 🖥️ Programador de aplicaciones Web, desktop y android</br>
+- 🏐 Crackster </br>
+- 🎠 Acarreadin </br>
+</br>
+
+## Tecnologías:
+
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%20Sharp-FA7343?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
+[![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+
+## Estadísticas:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAalvarado&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&title_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAalvarado&layout=compact&theme=dark&title_color=ffffff)
