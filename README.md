@@ -10,10 +10,10 @@
 
 ## 👨‍💻 Sobre mí:
 
-- 🎓 Estudiante de Software👨‍🎓</br>
-- 🖥️ Programador de aplicaciones Web, desktop y android</br>
-- 🏐 Crackster </br>
-- 🎠 Acarreadin </br>
+- 🎓 Estudiante de Desarrollo de Software👨‍🎓</br>
+- 🖥️ Programador de Aplicaciones Web, Desktop y Android</br>
+- ☄️ “ᴘᴇʀ ᴠᴏʟᴀʀ ꜱᴜɴᴀᴛᴀ” </br>
+- 🦈 𝒲𝑒 𝑜𝓌𝓃𝑒 𝒻𝒾𝓃𝒾𝓈𝒽 𝓁𝒾𝓃𝑒 </br>
 </br>
 
 ## Tecnologías:
