@@ -33,5 +33,5 @@
 
 ## Estadísticas:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAalvarado&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&title_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAalvarado&layout=compact&theme=dark&title_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisEscalante21&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&title_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEscalante21&layout=compact&theme=dark&title_color=ffffff)
